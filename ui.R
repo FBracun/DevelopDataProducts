@@ -303,10 +303,8 @@ shinyUI(pageWithSidebar(
                
              
                strong('Author'),
-               p('Franc Bracun'#,
-                # '|',
-                # a('LinkedIn', href="http://www.linkedin.com/pub/franc-bra%C4%8Dun/14/479/19", target="_blank")  
-               ),
+               p('Franc Bracun'
+                
                br(),
                
                strong('Code'), 
