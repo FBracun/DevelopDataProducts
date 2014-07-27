@@ -1,7 +1,8 @@
 DevelopDataProducts
 ===================
 
-h3 A Shiny Tool for Regression Analysis
+A Shiny Tool for Regression Analysi
+-------------------
 
 To play around with the Shiny Application go to [this site.](http://francb.shinyapps.io/LinearRegression/)
 
