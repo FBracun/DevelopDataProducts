@@ -147,10 +147,10 @@ shinyUI(pageWithSidebar(
                
                br(),
                
-               h4("User Interface Conotrols"),
+               h4("User Interface Controls"),
                
                p(style="text-align:justify",
-                 'The app allows user to control input parameters by selectiong various values through the widgets 
+                 'The app allows user to control input parameters by selecting  various values through the widgets 
                   on the left-hand side panel.
                   There are 4 groups of input parameters the user can control:'), 
                
@@ -303,9 +303,9 @@ shinyUI(pageWithSidebar(
                
              
                strong('Author'),
-               p('Franc Bracun',
-                 '|',
-                 a('LinkedIn', href="http://www.linkedin.com/pub/franc-bra%C4%8Dun/14/479/19", target="_blank")  
+               p('Franc Bracun'#,
+                # '|',
+                # a('LinkedIn', href="http://www.linkedin.com/pub/franc-bra%C4%8Dun/14/479/19", target="_blank")  
                ),
                br(),
                
